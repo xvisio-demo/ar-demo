@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>objects/toyplane.obj</file>
+        <file>objects/pattern-6x8.png</file>
+    </qresource>
+</RCC>

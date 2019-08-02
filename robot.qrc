@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>robot/robot-dance.bin</file>
+        <file>robot/robot-dance.gltf</file>
+        <file>robot/robot_metallic.png</file>
+        <file>robot/robot_normal.png</file>
+        <file>robot/robot_occlusion.png</file>
+        <file>robot/robot_red_basecolor.png</file>
+        <file>robot/robot_roughness.png</file>
+    </qresource>
+</RCC>

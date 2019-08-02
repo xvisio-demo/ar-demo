@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shaders/primitive.frag</file>
+        <file>shaders/primitive.vert</file>
+        <file>shaders/voxel.frag</file>
+        <file>shaders/voxel.vert</file>
+        <file>shaders/voxel.es.frag</file>
+        <file>shaders/voxel.es.vert</file>
+        <file>shaders/es2/simpleColor.frag</file>
+        <file>shaders/es2/simpleColor.vert</file>
+        <file>shaders/gl3/simpleColor.frag</file>
+        <file>shaders/gl3/simpleColor.vert</file>
+        <file>shaders/fisheye.frag</file>
+        <file>shaders/fisheye.vert</file>
+    </qresource>
+</RCC>

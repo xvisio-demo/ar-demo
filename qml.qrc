@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SceneRootAR.qml</file>
+        <file>Camera3D.qml</file>
+        <file>Grid3D.qml</file>
+        <file>Line3D.qml</file>
+        <file>Path3D.qml</file>
+        <file>Point3D.qml</file>
+        <file>PrimitiveEffect.qml</file>
+        <file>Sphere3D.qml</file>
+        <file>Cloud3D.qml</file>
+        <file>Voxel3D.qml</file>
+        <file>VoxelEffect.qml</file>
+        <file>Box3D.qml</file>
+        <file>SliderPicker.qml</file>
+        <file>SimpleCamera.qml</file>
+        <file>AnimatedEntity.qml</file>
+        <file>SkinnedEntity.qml</file>
+        <file>skinnedPbr.vert</file>
+        <file>SkinnedPbrEffect.qml</file>
+        <file>Robot.qml</file>
+        <file>ToyPlane.qml</file>
+        <file>SplashScreen.qml</file>
+        <file>Viewer.qml</file>
+        <file>AR.qml</file>
+        <file>VR.qml</file>
+        <file>ImageDisplay.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>SceneRootVR.qml</file>
+        <file>Surface3D.qml</file>
+    </qresource>
+</RCC>
