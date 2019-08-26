@@ -26,9 +26,9 @@ find_package( XSlamSDK REQUIRED)
 include_directories( ${XSlamSDK_INCLUDE_DIRS} )
 link_directories( ${XSlamSDK_LIBRARY_DIRS} )
 
-find_package( xslam-drivers REQUIRED)
-include_directories( ${xslam-drivers_INCLUDE_DIRS} )
-link_directories( ${xslam-drivers_LIBRARY_DIRS} )
+#find_package( xslam-drivers REQUIRED)
+#include_directories( ${xslam-drivers_INCLUDE_DIRS} )
+#link_directories( ${xslam-drivers_LIBRARY_DIRS} )
 
 find_package(Eigen3 REQUIRED)
 include_directories( ${EIGEN3_INCLUDE_DIR} )
